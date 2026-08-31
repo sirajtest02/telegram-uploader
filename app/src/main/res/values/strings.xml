@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">টেলিগ্রাম আপলোডার</string>
+    <string name="app_title">টেলিগ্রাম মিডিয়া ভল্ট</string>
+    <string name="video_vault">ভিডিও ভল্ট</string>
+    <string name="photo_vault">ফটো ভল্ট</string>
+    <string name="secret_chat">সিক্রেট চ্যাট</string>
+    
+    <!-- Buttons -->
+    <string name="btn_download">ডাউনলোড</string>
+    <string name="btn_delete">ডিলিট</string>
+    <string name="btn_send">পাঠান</string>
+    <string name="btn_back">ফিরে যান</string>
+    <string name="btn_add">যোগ করুন</string>
+    
+    <!-- Messages -->
+    <string name="message_hint">মেসেজ লিখুন...</string>
+    <string name="loading">লোডিং...</string>
+    <string name="error_loading">লোড করতে ত্রুটি</string>
+    <string name="no_data">কোনো ডেটা নেই</string>
+    <string name="delete_option_coming">ডিলিট অপশন শীঘ্রই আসবে</string>
+    
+    <!-- Permissions -->
+    <string name="permission_storage">ফাইল অ্যাক্সেস অনুমতি প্রয়োজন</string>
+    <string name="permission_camera">ক্যামেরা অনুমতি প্রয়োজন</string>
+</resources>
